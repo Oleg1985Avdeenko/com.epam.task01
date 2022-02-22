@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.epam.task01.car"},{"l":"com.epam.task01.logic"},{"l":"com.epam.task01.logic.program"},{"l":"com.epam.task01.logic.sort"},{"l":"com.epam.task01.main"}]
